@@ -77,7 +77,7 @@ It also imports `numpy`, `pandas`, `scikit-learn`, `torch`, `datasets`, `transfo
 
 ### Mentors
 
-TODO: Add confirmed mentors before submission.
+Mr Patrick Owor
 
 ## References
 
